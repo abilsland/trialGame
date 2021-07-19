@@ -28,7 +28,7 @@ How to play:
 - The game is mainly navigated by a series of buttons activated by the Kinect user's right hand.
 - The user recruits a cohort (or possibly individual patients for model based designs).
 - A dose for the current patient or cohort is chosen and toxicities are checked.
-- The user should then decide whether dose-limiting toxicities are observed and make an appropriate decision to escalate/de-escalate/expand the cohort.
+- The user should then decide whether dose-limiting toxicities are observed and make an appropriate decision to escalate/de-escalate/expand the cohort/stop.
 - This decision is made differently for different designs - eg, 3+3; continuous reassessment method; modified toxicity probability interval design.
 - The dose selection for a current cohort is adjusted with a sliding scale tracking distance between the user's hands.
 - This version of the code is intended to be played interactively with both a tutor and a student.
