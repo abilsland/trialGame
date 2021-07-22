@@ -17,9 +17,14 @@ Background:
 Notes:
 - In normal use, the game includes a dose selection screen in which said enormous syringe features prominently.
 - The syringe 3D model was obtained from Turbosquid (New Orleans, LA, USA; product ID 590149) and cannot be provided with the code for licensing reasons.
+- Instead, we provide the "Stanford bunny" .obj as a silly replacement (http://graphics.stanford.edu/data/3Dscanrep/).
+- If you want to change it, just change the obj and mtl files in the main folder and change this line to point to the new file:
+
+  model = new OBJModel(this, "syringe.obj", "relative", POLYGON);
+ 
 - In normal use, a number of histopathology images are also included illustrating different tumour sites and stages.
 - These were obtained from online sources under fair educational use and are not distributed.
-- To reactivate this aspect, simply replace the blank jpg files with appropriate images.
+- To reactivate this aspect, replace the blank jpg files with appropriate images of the same filenames.
 
 How to play:
 - Preclinical toxicology studies in dog found a No Adverse Events Level for drug X of 50 mg/kg/day.
@@ -40,6 +45,7 @@ How to play:
 
 The game also allows for selection of several other oncology agents that have been tested in phase I (or later, including approved agents).
 If these are selected instead of drug X, the player should arrive at similar conclusions to those in the trial references included in the data folder.
+Since I don't want to be sued, the ability of these agents to cause fatal toxicty has been disabled. I DO NOT claim that can happen with any of them. It can for drug X, however...
 
 ************* Requirements *****************************************************************************************************************************
 - Ubuntu 14+
