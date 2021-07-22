@@ -17,10 +17,10 @@ Background:
 Notes:
 - In normal use, the game includes a dose selection screen in which said enormous syringe features prominently.
 - The syringe 3D model was obtained from Turbosquid (New Orleans, LA, USA; product ID 590149) and cannot be provided with the code for licensing reasons.
-- Instead, we provide the "Stanford bunny" .obj as a silly replacement (http://graphics.stanford.edu/data/3Dscanrep/).
-- If you want to change it, just change the obj and mtl files in the main folder and change this line to point to the new file:
+- Instead, we provide the "Stanford bunny" .obj as an even sillier replacement (http://graphics.stanford.edu/data/3Dscanrep/).
+- If you want to change it, just change the obj and mtl files in the main folder and change this line in the main sketch to point to the new file:
 
-  model = new OBJModel(this, "syringe.obj", "relative", POLYGON);
+  model = new OBJModel(this, "stanford_bunny.obj", "relative", POLYGON);
  
 - In normal use, a number of histopathology images are also included illustrating different tumour sites and stages.
 - These were obtained from online sources under fair educational use and are not distributed.
