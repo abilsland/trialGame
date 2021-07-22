@@ -1,0 +1,20 @@
+AMG208
+Target: c-Met
+Cell free IC50: 9nM
+Animal studies: <=2mg/kg i.v./p.o. (rat)
+lenvatinib
+Targets: VEGFR2/3/1, PDGFRb
+Cell free IC50: 4nM, 5.2nM, 22nM, 39nM
+Animal studies: <= 100mg/kg p.o. (mouse)
+olaparib
+Targets: PARP2, PARP1
+Cell free IC50: 1nM, 5nM
+Animal studies: 50mg/kg i.p. (mouse)
+HSP990
+Targets: HSP90a, HSP90b
+Cell free IC50: 0.6nM, 0.8nM
+Animal studies: 15mg/kg p.o. (mouse)
+drugX
+Targets: see data package
+Cell free IC50: see data package
+Animal studies: see data package
