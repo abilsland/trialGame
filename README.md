@@ -24,7 +24,7 @@ Notes:
  
 - In normal use, a number of histopathology images are also included illustrating different tumour sites and stages.
 - These were obtained from online sources under fair educational use and are not distributed.
-- To reactivate this aspect, replace the blank jpg files with appropriate images of the same filenames.
+- In order not to have to modify the code, these have been replaced with blank jpg files. If you want this aspect reactivated, replace these blank jpg files with appropriate images of the same filenames.
 
 How to play:
 - Preclinical toxicology studies in dog found a No Adverse Events Level for drug X of 50 mg/kg/day.
