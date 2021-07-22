@@ -3,7 +3,7 @@ Contains the code for the Processing game Phase I Cancer Trial using Micrsoft Ki
 The game is used in teaching differences between A+B and Bayesian model-based phase I safety trial designs within the University of Glasgow MSc Cancer Research and Precision Oncology.
 Full description of the tutorial activity will be reported elsewhere in a manuscript outlining an investigation into student responses to the activity.
 Kinect skeleton tracking functions in the code are adapted (not very much!) from Making Things See by Greg Borenstein (Maker Media, 2012).
-Permission to publish the game source code including these code examples was obtained from Maker Media and the author.
+Permission to publish the game source code including these code examples was kindly provided by Maker Media and the author.
 
 Objective of the game: 
 - Find the maximum tolerated dose and dose-limiting toxicities of drug X, without killing any patients.
